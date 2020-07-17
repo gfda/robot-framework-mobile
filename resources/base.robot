@@ -3,6 +3,8 @@ Documentation    Código base para abrir um sessão com o Appium Server
 
 Library    AppiumLibrary
 
+Resource	kws.robot
+
 ***Keywords***
 ## Hooks
 Open Session
@@ -13,7 +15,6 @@ Open Session
 	...					udid=emulator-5554
 	...					appPackage=io.qaninja.ninjachef
   	...					appActivity=host.exp.exponent.MainActivity
-	#...					app=../app/ninjachef.apk
-
+	
 Close Session
 	Close Application
