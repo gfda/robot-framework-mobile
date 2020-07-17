@@ -1,6 +1,6 @@
 # robot-framework-mobile
 
-![Robot Framework Logo](images/Robot-Framework.png) | ![Appium Logo](images/Appium.png)
+![Robot Framework Logo](images/Robot-Framework.png)  ![Appium Logo](images/Appium.png)
 
 Estudo de automação de testes mobile utilizando robot framework e Appium, durante a 2ª edição do robo week - disponibilizado pelo QA Ninja e o Fernando Papito.
 
@@ -10,7 +10,7 @@ Estudo de automação de testes mobile utilizando robot framework e Appium, dura
 
 Para configuração do Appium, consulte a documentação oficial em PT-BR disponibilizado pela Maria Clara.
 
- - [Configuração Appium - Maria Clara](https://github.com/clarabez/appium)
+- [Configuração Appium - Maria Clara](https://github.com/clarabez/appium)
 
 ### Ambiente
 
