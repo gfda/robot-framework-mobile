@@ -6,6 +6,14 @@ Estudo de automação de testes mobile utilizando robot framework e Appium, dura
 
 ## Setup
 
+### Appium 
+
+Para configuração do Appium, consulte a documentação oficial em PT-BR disponibilizado pela Maria Clara.
+
+ - [Configuração Appium - Maria Clara](https://github.com/clarabez/appium)
+
+### Ambiente
+
 Utilizei o pipenv para criar um ambiente virtual do Python
 
 ```console
