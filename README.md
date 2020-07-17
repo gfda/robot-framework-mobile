@@ -1,6 +1,6 @@
 # robot-framework-mobile
 
-![Robot Framework Logo](images/Robot-Framework-2000x1200.jpg)
+![Robot Framework Logo](images/Robot-Framework.png) | ![Appium Logo](images/Appim.png)
 
 Estudo de automação de testes mobile utilizando robot framework e Appium, durante a 2ª edição do robo week - disponibilizado pelo QA Ninja e o Fernando Papito.
 
