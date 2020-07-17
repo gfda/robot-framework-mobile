@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "537e027cfd986ae5befa0563ed5255f40a03107240144071c83708d079895f9d"
+            "sha256": "c41bb2c0ffe4767681e886e78d06d7866cdda1a48a150f9a37ddff0e8a02c391"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -16,6 +16,32 @@
         ]
     },
     "default": {
+        "appium-python-client": {
+            "hashes": [
+                "sha256:44e2cf8040dc9d52ad2947046f221eddfbf4055b8c99615e3f1808b6aeb6a8ec"
+            ],
+            "version": "==1.0.2"
+        },
+        "decorator": {
+            "hashes": [
+                "sha256:41fa54c2a0cc4ba648be4fd43cff00aedf5b9465c9bf18d64325bc225f08f760",
+                "sha256:e3a62f0520172440ca0dcc823749319382e377f37f140a0b99ef45fecb84bfe7"
+            ],
+            "version": "==4.4.2"
+        },
+        "docutils": {
+            "hashes": [
+                "sha256:0c5b78adfbf7762415433f5515cd5c9e762339e23369dbe8000d84a4bf4ab3af",
+                "sha256:c2de3a60e9e7d07be26b7f2b00ca0309c207e06c100f9cc2a94931fc75a478fc"
+            ],
+            "version": "==0.16"
+        },
+        "kitchen": {
+            "hashes": [
+                "sha256:b84cf582f1bd1556b60ebc7370b9d331eb9247b6b070ce89dfe959cba2c0b03c"
+            ],
+            "version": "==1.2.6"
+        },
         "robotframework": {
             "hashes": [
                 "sha256:34923415afd9491141630ad1d7146b638ee869f1c7f97c450c0da5ce79e1ac23",
@@ -23,6 +49,14 @@
             ],
             "index": "pypi",
             "version": "==3.2.1"
+        },
+        "robotframework-appiumlibrary": {
+            "hashes": [
+                "sha256:7171a81705bbfa0091c1cf6518277681752386c860efc6dd98c85d74970ad2a6",
+                "sha256:76ca3cdf1e25d9a54d94011cd0a53ea9b136f77e72b652f01cff814d828580d7"
+            ],
+            "index": "pypi",
+            "version": "==1.5.0.6"
         },
         "robotframework-seleniumlibrary": {
             "hashes": [
@@ -38,6 +72,13 @@
                 "sha256:deaf32b60ad91a4611b98d8002757f29e6f2c2d5fcaf202e1c9ad06d6772300d"
             ],
             "version": "==3.141.0"
+        },
+        "six": {
+            "hashes": [
+                "sha256:30639c035cdb23534cd4aa2dd52c3bf48f06e5f4a941509c8bafd8ce11080259",
+                "sha256:8b74bedcbbbaca38ff6d7491d76f2b06b3592611af620f8426e82dddb04a5ced"
+            ],
+            "version": "==1.15.0"
         },
         "urllib3": {
             "hashes": [

@@ -8,6 +8,7 @@ verify_ssl = true
 [packages]
 robotframework = "*"
 robotframework-seleniumlibrary = "*"
+robotframework-appiumlibrary = "*"
 
 [requires]
 python_version = "3.7"
