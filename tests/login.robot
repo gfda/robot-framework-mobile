@@ -10,4 +10,4 @@ Test Teardown    Close Session
 Acessar o cardapio
     Dado que desejo comer "Massas"
     Quando submeto meu email "test@mail.com"
-    Entao devo ver a lista de pratos por tipo
+    Entao devo ver os pratos do tipo escolhido
